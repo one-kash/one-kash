@@ -1,0 +1,162 @@
+@import url('https://fonts.googleapis.com/css?family=Ubuntu:400,700&display=swap');
+
+body {
+  /*background: color*/
+  background-color: #1b1e1d;
+  color: white;
+  font-family: 'Ubuntu';
+  font-size: 20px;
+  }
+
+img {
+  border-radius: 50%;
+  }
+
+.profile-picture {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 5%;
+  height: auto;
+  max-width: 100px;
+  }
+    
+
+.button {
+  position: relative;
+  font-family: 'Ubuntu';
+  background-color: transparent; 
+  color: white;
+  border-color: white;
+  padding: 10px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  border-radius: 10px;
+  width: 450px;
+  cursor: pointer;
+}
+
+.button:hover {
+  background-color: #FAF9F6;
+  color: black;
+}
+
+.button2 {
+  position: relative;
+  font-family: 'Ubuntu';
+  background-color: transparent; 
+  color: white;
+  border-color: none;
+  padding: 10px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  border-radius: 10px;
+  width: 550px;
+  cursor: pointer;
+}
+
+.button2:hover {
+  background-color: #FAF9F6;
+  color: black;
+}
+
+.button3 {
+  position: relative;
+  font-family: 'Ubuntu';
+  background-color: #174e5b; 
+  color: white;
+  border-color: none;
+  padding: 10px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  border-radius: 10px;
+  width: 450px;
+  cursor: pointer;
+}
+
+.button3:hover {
+  background-color: #FAF9F6;
+  color: black;
+}
+
+.button4 {
+  position: relative;
+  font-family: 'Ubuntu';
+  background-color:  #bd2d0f; 
+  color: white;
+  border-color: none;
+  padding: 10px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  border-radius: 10px;
+  width: 450px;
+  cursor: pointer;
+}
+
+.button4:hover {
+  background-color: #FAF9F6;
+  color: black;
+}
+
+
+.button5 {
+  position: relative;
+  font-family: 'Ubuntu';
+  background-color: #0077b5; 
+  color: white;
+  border-color: none;
+  padding: 10px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  border-radius: 10px;
+  width: 450px;
+  cursor: pointer;
+}
+
+.button5:hover {
+  background-color: #FAF9F6;
+  color: black;
+}
+
+
+.buttonbook {
+  position: relative;
+  font-family: 'Ubuntu';
+  background-color: #ec5800; 
+  color: white;
+  border-color: none;
+  padding: 10px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  border-radius: 10px;
+  width: 450px;
+  cursor: pointer;
+}
+
+.buttonbook:hover {
+  background-color: #ff7e00;
+  color: black;
+}
+
+.footer {
+   font-family: 'Ubuntu';
+   bottom: 0;
+   background-color: transparent;
+   color: gray;
+   text-align: center;
+   font-size: 15px;
+   padding: 3px;
+  }
+ 
