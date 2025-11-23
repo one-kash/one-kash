@@ -1,10 +1,5 @@
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/one-kash/kashyap.one/refs/heads/main/img/profile.jpg" alt="Profile Picture" width="150" height="150" style="border-radius: 50%;" />
-
-  <br />
-  <br />
-
   <a href="https://linkedin.kashyap.one">
     <img src="https://img.shields.io/badge/LinkedIn-Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="400" height="60" />
   </a>
