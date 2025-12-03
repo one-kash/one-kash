@@ -1,9 +1,13 @@
 <div align="center">
 
-  <a href="https://linkedin.kashyap.one">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="400" height="60" />
+  <a href="https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7063883542358872064">
+    <img src="https://img.shields.io/badge/Subscribe-Newsletter_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="400" height="60" />
+
+   
   </a>
 
+ 
+ 
   <br />
   <br />
 
